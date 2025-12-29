@@ -41,7 +41,7 @@ const Hero: React.FC = () => {
               <div className="relative group flex-shrink-0">
                 <div className="w-32 h-32 md:w-44 md:h-44 rounded-[2.5rem] overflow-hidden border border-white/10 relative z-10">
                   <img
-                    src="../assets/Shahin.png"
+                    src="./assets/Shahin.png"
                     alt="Shahin"
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                   />
